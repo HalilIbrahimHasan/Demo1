@@ -10,6 +10,7 @@ public class DemoClass {
 
     //Here are some updates from remote collaborators
     //Here are the second line of conflict
+    //here is edited file
 
 
 
